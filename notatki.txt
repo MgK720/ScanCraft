@@ -1,0 +1,6 @@
+Python 3.11.9
+
+1. komenda uruchamia Qt Designer
+    designer
+2. konwertowanie .ui na .py
+    pyuic6 -o my_design.py my_design.ui
